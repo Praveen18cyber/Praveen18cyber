@@ -17,20 +17,6 @@
 
 ---
 
-## Who I Am
-
-I'm **Praveen Sakthi G** — a self-taught **Java & Spring Boot developer** from Tamil Nadu, building production-ready backend systems independently.
-
-While my degree is in Biotechnology, I've committed fully to software engineering — shipping three complete backend projects covering **HRMS workflows**, **customer support ticketing**, and **role-based access control** without formal training. That ability to self-direct and deliver is my strongest asset.
-
-I specialise in designing clean **REST APIs**, structuring normalised **MySQL schemas**, and writing maintainable backend code following **MVC architecture** and **OOP principles**.
-
-Actively looking for a **Junior Java Developer** or **Trainee role** where I can contribute to real-world applications and grow under experienced engineers.
-
-> *"Self-taught · Fast learner · Shipping real code."*
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -66,33 +52,6 @@ Actively looking for a **Junior Java Developer** or **Trainee role** where I can
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse&theme=dark&perline=5"/>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen18cyber&theme=github-compact&bg_color=0d1117&color=34d399&line=34d399&point=34d399&area=true&area_color=34d353&hide_border=true&radius=6&custom_title=Contribution+Activity" width="96%"/>
-
-<br/>
-
-<a href="https://github.com/Praveen18cyber">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Praveen18cyber&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=8b949e&border_radius=8&rank_icon=percentile&custom_title=GitHub+Stats"/>
-</a>&nbsp;
-<a href="https://github.com/Praveen18cyber">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen18cyber&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=8b949e&langs_count=8&border_radius=8&custom_title=Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="55%" src="https://streak-stats.demolab.com?user=Praveen18cyber&hide_border=true&background=0D1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=8b949e&dates=484f58&currStreakNum=ffffff&sideNums=ffffff&stroke=0D1117&border_radius=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen18cyber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
