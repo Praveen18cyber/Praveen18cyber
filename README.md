@@ -4,24 +4,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=34D399&center=true&vCenter=true&repeat=false&width=760&lines=%5B+SYSTEM+%5D+........+ONLINE+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=34D399&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STACK+%5D+..........+Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=34D399&center=true&vCenter=true&repeat=false&width=760&lines=%5B+CORE+%5D+.........+OOP+%7C+MVC+%7C+RBAC+%7C+JPA%2FHibernate+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=300&color=4ADE80&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STATUS+%5D+.......+ALL+SYSTEMS+OPERATIONAL+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=500&color=6EE7B7&center=true&vCenter=true&repeat=false&width=760&lines=%E2%96%B6%E2%96%B6+Backend+Engineer+...+Booting+Up+%F0%9F%9A%80"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=34D399&center=true&vCenter=true&repeat=true&width=760&lines=Building+Production-Ready+REST+APIs;Spring+Boot+%7C+MySQL+%7C+JPA+%7C+RBAC;Self-Taught+%E2%80%A2+Fast+Learner+%E2%80%A2+Shipping+Real+Code;Actively+Seeking+Junior+Java+Developer+Role"/>
-
-</div>
-
 <br/>
 
 <div align="center">
