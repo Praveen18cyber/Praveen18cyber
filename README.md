@@ -4,8 +4,6 @@
 
 <br/>
 
-<br/>
-
 <div align="center">
   <a href="mailto:eg.praveensakthi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -18,105 +16,77 @@
 
 <br/>
 
----
-
 ## Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
+<br/>
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
+<img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1"/>
+
+<br/><br/>
 </td>
+
 <td align="center" width="25%">
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-</td>
-<td align="center" width="25%">
+**Frontend**
 
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
+<img src="https://skillicons.dev/icons?i=angular,react&theme=dark&perline=2"/>
+
+<br/><br/>
 </td>
+
 <td align="center" width="25%">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr><td colspan="4"><br/></td></tr>
-
-<tr>
-<td align="center" width="25%">
 
 **Backend**
 
-<img src="https://img.shields.io/badge/REST%20APIs-0d2137?style=flat-square&logo=fastapi&logoColor=34d399" height="28"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CRUD-0d2137?style=flat-square&logo=databricks&logoColor=34d399"/>
-<img src="https://img.shields.io/badge/JSON-0d2137?style=flat-square&logo=json&logoColor=34d399"/>
-<img src="https://img.shields.io/badge/HTTP-0d2137?style=flat-square&logo=protocols.io&logoColor=34d399"/>
+<br/>
 
+<img src="https://skillicons.dev/icons?i=spring,express,nodejs&theme=dark&perline=3"/>
+
+<br/><br/>
 </td>
+
 <td align="center" width="25%">
+<br/>
 
-**Architecture**
+**Databases**
 
-<img src="https://img.shields.io/badge/MVC-0d2137?style=flat-square&logo=blueprint&logoColor=6ee7b7" height="28"/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb&theme=dark&perline=3"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/OOP-0d2137?style=flat-square&logo=openjdk&logoColor=6ee7b7"/>
-<img src="https://img.shields.io/badge/RBAC-0d2137?style=flat-square&logo=auth0&logoColor=6ee7b7"/>
-<img src="https://img.shields.io/badge/SDLC-0d2137?style=flat-square&logo=cachet&logoColor=6ee7b7"/>
-
 </td>
-<td align="center" width="25%">
 
-**Testing**
+</tr>
 
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" height="28"/>
+<tr>
+<td colspan="4" align="center">
+<br/>
+
+**Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postman,github,docker&theme=dark&perline=3"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Unit%20Testing-0d2137?style=flat-square&logo=checkmarx&logoColor=34d399"/>
-<img src="https://img.shields.io/badge/Exception%20Handling-0d2137?style=flat-square&logo=openjdk&logoColor=34d399"/>
-
-</td>
-<td align="center" width="25%">
-
-**Concepts**
-
-<img src="https://img.shields.io/badge/DSA-0d2137?style=flat-square&logo=leetcode&logoColor=f59e0b" height="28"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Data%20Structures-0d2137?style=flat-square&logo=openjdk&logoColor=6ee7b7"/>
-<img src="https://img.shields.io/badge/Algorithms-0d2137?style=flat-square&logo=thealgorithms&logoColor=6ee7b7"/>
-<img src="https://img.shields.io/badge/Code%20Docs-0d2137?style=flat-square&logo=readme&logoColor=6ee7b7"/>
-
 </td>
 </tr>
+
 </table>
 
 </div>
